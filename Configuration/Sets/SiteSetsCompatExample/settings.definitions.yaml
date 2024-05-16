@@ -1,0 +1,5 @@
+settings:
+  site_sets_compat.text:
+    label: "Text to show"
+    type: string
+    default: "Hello, TYPO3 universe!"

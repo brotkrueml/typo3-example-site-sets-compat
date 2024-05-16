@@ -1,0 +1,37 @@
+{
+    "name": "brotkrueml/typo3-example-site-sets-compat",
+    "description": "Example of how to provide site sets in an extension that is compatible with older TYPO3 versions",
+    "license": "GPL-2.0-or-later",
+    "type": "typo3-cms-extension",
+    "authors": [
+        {
+            "name": "Chris Müller",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/brotkrueml/typo3-example-site-sets-compat"
+    },
+    "require": {
+        "typo3/cms-core": "^11.5 || ^12.4 || ^13.1"
+    },
+    "config": {
+        "bin-dir": ".Build/bin",
+        "sort-packages": true,
+        "vendor-dir": ".Build/vendor",
+        "allow-plugins": {
+            "typo3/cms-composer-installers": true,
+            "typo3/class-alias-loader": true
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-main": "1.0.x-dev"
+        },
+        "typo3/cms": {
+            "app-dir": ".Build",
+            "extension-key": "example_site_sets_compat",
+            "web-dir": ".Build/web"
+        }
+    }
+}

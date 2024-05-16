@@ -1,0 +1,4 @@
+site_sets_compat {
+  # cat=site_sets_compat; type=string; label=Text to show
+  text = Hello, TYPO3 universe!
+}
