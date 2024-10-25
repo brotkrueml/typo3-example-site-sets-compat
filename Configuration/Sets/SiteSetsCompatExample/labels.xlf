@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" original="EXT:example_site_sets_compat/Configuration/Sets/Sitemap/labels.xlf" datatype="plaintext" product-name="example_site_sets_compat" date="2024-10-25T16:42:27+02:00">
+        <header></header>
+        <body>
+            <trans-unit id="label" resname="label">
+                <source>Site sets compat example</source>
+            </trans-unit>
+            <trans-unit id="categories.sitesetscompat" resname="label">
+                <source>Site sets compat example</source>
+            </trans-unit>
+            <trans-unit id="settings.site_sets_compat.text" resname="label">
+                <source>Text to show</source>
+            </trans-unit>
+            <trans-unit id="settings.description.site_sets_compat.text" resname="label">
+                <source>Enter the text to be shown here</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
