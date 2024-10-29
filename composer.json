@@ -9,6 +9,7 @@
             "role": "Developer"
         }
     ],
+    "homepage": "https://brotkrueml.dev/how-to-maintain-an-extension-for-multiple-typo3-versions-with-and-without-site-sets/",
     "support": {
         "source": "https://github.com/brotkrueml/typo3-example-site-sets-compat"
     },
