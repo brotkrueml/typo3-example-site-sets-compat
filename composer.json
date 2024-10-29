@@ -13,7 +13,7 @@
         "source": "https://github.com/brotkrueml/typo3-example-site-sets-compat"
     },
     "require": {
-        "typo3/cms-core": "^11.5 || ^12.4 || ^13.1"
+        "typo3/cms-core": "^11.5 || ^12.4 || ^13.4"
     },
     "config": {
         "bin-dir": ".Build/bin",
