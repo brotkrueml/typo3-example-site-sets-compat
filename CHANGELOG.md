@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0] - 2024-10-30
+
+### Added
+- Category for site setting (thanks to Eric Harrer)
+
 ## [1.0.1] - 2024-05-16
 
 ### Fixed
@@ -15,6 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Initial release
 
-[Unreleased]: https://github.com/brotkrueml/typo3-example-site-sets-compat/compare/v1.0.1...HEAD
+[Unreleased]: https://github.com/brotkrueml/typo3-example-site-sets-compat/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/brotkrueml/typo3-example-site-sets-compat/compare/v1.0.1...v1.1.0
 [1.0.1]: https://github.com/brotkrueml/typo3-example-site-sets-compat/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/brotkrueml/typo3-example-site-sets-compat/releases/tag/v1.0.0
