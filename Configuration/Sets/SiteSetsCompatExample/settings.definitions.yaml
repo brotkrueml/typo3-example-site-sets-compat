@@ -1,6 +1,6 @@
 categories:
   sitesetscompat:
-    label: 'Site sets compat example'
+    label: "Site sets compat example"
 
 settings:
   site_sets_compat.text:
